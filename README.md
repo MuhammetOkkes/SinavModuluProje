@@ -13,4 +13,4 @@ Story-6: Öğrencinin eksik olduğu alan ile ilgili zaman bazlı olmayan bir sı
 5- Git Hesabının Linki (Puan 10).<br>
 6- Yazılım UI/UX Tasarımı (video)(Puan 10)<br>
 ## Used Technologies
-C#
+C#,Entity Framework
